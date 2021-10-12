@@ -27,6 +27,11 @@
 ## ⚙️ GitHub Stats
 [![Bhaskars's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkatabhaskar3000)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## 📚Most Languages used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatabhaskar3000)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 💻 Connect With Me
 <p align="center">
 	<a href="mailto:venkatabhaskarpuppala@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
