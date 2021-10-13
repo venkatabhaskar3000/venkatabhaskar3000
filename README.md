@@ -12,7 +12,7 @@
  <h3> 👨🏻‍💻 About Me </h3>
  
   - 🌱 I’m currently learning **_Programming Languages_**.
-  - 👯 I’m an novice **_OpenSource Enthusiast_**.
+  - 👯 I’m a novice **_OpenSource Enthusiast_**.
   - 🤔 Exploring new **_Technologies_**.
 
 ## 🚀 Languages and Tools:
