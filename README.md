@@ -3,10 +3,10 @@
 <p align="center" >
 	<img 
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%" height="40%"/></p>
- <p align="center">
-   <img src="https://gpvc.arturio.dev/venkatabhaskar3000" alt="profile views"> •  
+ <p align="center">     
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/venkatabhaskar3000?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/venkatabhaskar3000?label=Stars" alt="Total Stars"></p>
+  <img src="https://img.shields.io/github/stars/venkatabhaskar3000?label=Stars" alt="Total Stars">
+</p>
 
 
  <h3> 👨🏻‍💻 About Me </h3>
