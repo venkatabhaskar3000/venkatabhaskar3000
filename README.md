@@ -3,9 +3,8 @@
 <p align="center" >
 	<img 
  src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%" height="40%"/></p>
- <p align="center">     
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/venkatabhaskar3000?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/venkatabhaskar3000?label=Stars" alt="Total Stars">
+ <p align="center">      
+  <img src="https://img.shields.io/github/stars/venkatabhaskar3000?label=Stars" alt="Total Stars">	
 </p>
 
 
@@ -14,6 +13,7 @@
   - 🌱 I’m currently learning **_Programming Languages_**.
   - 👯 I’m a novice **_OpenSource Enthusiast_**.
   - 🤔 Exploring new **_Technologies_**.
+
 
 ## 🚀 Languages and Tools:
 
@@ -24,13 +24,13 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
   
-## ⚙️ GitHub Stats
-[![Bhaskars's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkatabhaskar3000)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 📚 Languages With Which I Work Most
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatabhaskar3000)](https://github.com/anuraghazra/github-readme-stats)
-
+## 📈 GitHubStats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=venkatabhaskar3000&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatabhaskar3000&theme=tokyonight" />
+</p>
 
 ## 💻 Connect With Me
 <p align="center">
