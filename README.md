@@ -2,11 +2,7 @@
 <h1 style= "color: black;" align="center">Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Venkata Bhaskar.</h1>
 <p align="center" >
 	<img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="40%" height="40%"/></p>
- <p align="center">      
-  <img src="https://img.shields.io/github/stars/venkatabhaskar3000?label=Stars" alt="Total Stars">	
-</p>
-
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="90%" height="50%"/></p>
 
  <h3> 👨🏻‍💻 About Me </h3>
  
