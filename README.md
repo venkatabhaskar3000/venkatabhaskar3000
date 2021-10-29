@@ -1,8 +1,8 @@
 
-<h1 style= "color: black;" align="center">Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Venkata Bhaskar.</h1>
+<h1 style= "color: black;" align="center">Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="43px">,I am Venkata Bhaskar <img src="https://user-images.githubusercontent.com/88318203/139377751-b522089a-91e5-4da7-96be-0a97c38a88d3.png" width="34px"/>.</h1>
 <p align="center" >
 	<img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="90%" height="50%"/></p>
+ src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="80%" height="50%"/></p>
 
  <h3> 👨🏻‍💻 About Me </h3>
  
