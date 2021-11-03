@@ -1,36 +1,27 @@
+## Hi, I am VenkataBhaskar! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<h1 style= "color: black;" align="center">Hello there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="43px">,I am Venkata Bhaskar <img src="https://user-images.githubusercontent.com/88318203/139377751-b522089a-91e5-4da7-96be-0a97c38a88d3.png" width="34px"/>.</h1>
-<p align="center" >
-	<img 
- src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif?raw=true" width="80%" height="50%"/></p>
+I am currently pursuing my B.Tech in computer science. I am a novice open-source enthusiast. Find out more about me & feel free to connect with me here:
 
- <h3> 👨🏻‍💻 About Me </h3>
- 
-  - 🌱 I’m currently learning **_Programming Languages_**.
-  - 👯 I’m a novice **_OpenSource Enthusiast_**.
-  - 🤔 Exploring new **_Technologies_**.
+[![Linkedin Badge](https://img.shields.io/badge/-VenkataBhaskar-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/venkata-bhaskar-puppala-0287b321a)](https://linkedin.com/in/venkata-bhaskar-puppala-0287b321a)
+[![Instagram Badge](https://img.shields.io/badge/-bhaskarsig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/bhaskarsig)](https://instagram.com/bhaskarsig)
+[![Gmail Badge](https://img.shields.io/badge/-venkatabhaskarpuppala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:venkatabhaskarpuppala@gmail.com)](mailto:venkatabhaskarpuppala@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Bhaskarstwt-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Bhaskarstwt)](https://www.twitter.com/Bhaskarstwt)
+
+[![bhaskar's github activity graph](https://activity-graph.herokuapp.com/graph?username=venkatabhaskar3000&theme=xcode)](https://git.io/kaiwalyakoparkar)
 
 
-## 🚀 Languages and Tools:
+## ⚡ Technologies
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
-  
+### Languages :
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-## 📈 GitHubStats
+## 📈 Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=venkatabhaskar3000&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=venkatabhaskar3000&theme=tokyonight" />
 </p>
-
-## 💻 Connect With Me
-<p align="center">
-	<a href="mailto:venkatabhaskarpuppala@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://linkedin.com/in/venkata-bhaskar-puppala-0287b321a"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.twitter.com/Bhaskarstwt"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-	<a href="https://instagram.com/bhaskarsig"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
